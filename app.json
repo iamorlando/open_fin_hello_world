@@ -1,20 +1,19 @@
 {
+    "devtools_port": 9090,
     "startup_app": {
-        "name": "OpenfinPOC",
+        "name": "ldi_app",
+        "description": "OpenFin POC",
         "url": "http://172.25.35.3:8051",
-        "uuid": "OpenfinPOC",
-        "applicationIcon": "http://localhost:5555/favicon.ico",
-        "autoShow": true,
-        "saveWindowState": true
+        "uuid": "ldi_app-c95b5vq0xgu",
+        "autoShow": true
     },
     "runtime": {
-        "arguments": "--remote-debugging-port=9090",
-        "version": "community"
+        "arguments": "",
+        "version": "beta"
     },
     "shortcut": {
-        "company": "OpenfinPOC",
-        "description": "OpenfinPOC",
-        "icon": "http://localhost:5555/favicon.ico",
-        "name": "OpenfinPOC"
+        "company": "ldi_app",
+        "description": "ldi_app",
+        "name": "ldi_app"
     }
 }
