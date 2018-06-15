@@ -3,7 +3,7 @@
     "startup_app": {
         "name": "ldi_app",
         "description": "OpenFin POC",
-        "url": "http://172.25.35.3:8051",
+        "url": "http://demo3.fincad.com:8051",
         "uuid": "ldi_app-c95b5vq0xgu",
         "autoShow": true
     },
